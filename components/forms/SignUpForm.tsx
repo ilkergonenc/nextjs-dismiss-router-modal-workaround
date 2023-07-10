@@ -116,7 +116,7 @@ export default function SignUpForm() {
 				<div className="flex w-full items-center justify-between">
 					<p>
 						Alread a member?
-						<Link href="/sign-in" className="underline underline-offset-2 ml-2">
+						<Link href="/sign-in" className="ml-2 underline underline-offset-2">
 							Sign in
 						</Link>
 					</p>

@@ -24,7 +24,7 @@ export default function Frame({ photo }: { photo: Photo }) {
 				src={photo.imageSrc}
 				height={600}
 				width={600}
-				className="w-full object-cover aspect-square col-span-2"
+				className="col-span-2 aspect-square w-full object-cover"
 			/>
 
 			<div>

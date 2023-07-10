@@ -3,7 +3,7 @@ import ForgotPasswordForm from '@/components/forms/ForgotPasswordForm'
 export default function Page() {
 	return (
 		<>
-			<h1 className="text-2xl font-semibold mb-8">Forgot your password?</h1>
+			<h1 className="mb-8 text-2xl font-semibold">Forgot your password?</h1>
 			<ForgotPasswordForm />
 		</>
 	)

@@ -40,7 +40,7 @@ export default function IndexPage() {
 					href={siteConfig.links.github}
 					className={buttonVariants({ variant: 'outline' })}
 				>
-					<Icons.gitHub className="h-5 w-5 fill-current mr-2" />
+					<Icons.gitHub className="mr-2 h-5 w-5 fill-current" />
 					<b>@shadcn</b>
 				</Link>
 			</div>
